@@ -1,2 +1,4 @@
 ### Hi there 👋
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsMePepijn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[ItsMePepijn GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMePepijn&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megatank58&theme=dark&layout=compact)
